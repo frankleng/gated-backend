@@ -117,7 +117,7 @@
     "uuid": "^8.3.2"
   },
   "devDependencies": {
-    "@nestjs/cli": "^8.0.0",
+    "@nestjs/cli": "^10.4.9",
     "@nestjs/schematics": "^8.0.0",
     "@nestjs/testing": "^8.0.0",
     "@types/bluebird": "^3.5.37",
@@ -155,7 +155,7 @@
     "ts-jest": "^27.1.2",
     "ts-loader": "^9.2.3",
     "typescript": "^4.3.5",
-    "webpack": "^5.64.1",
+    "webpack": "^5.97.1",
     "webpack-node-externals": "^3.0.0"
   },
   "jest": {
